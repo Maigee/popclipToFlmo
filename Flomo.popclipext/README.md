@@ -9,6 +9,6 @@ Set flomo API URL in PopClip extension settings.
 Get URL from:
 [flomo incoming webhook](https://flomoapp.com/mine?source=incoming_webhook)
 
-## About
+## Requirements
 
-- Requires flomo PRO account.
+- flomo PRO account
