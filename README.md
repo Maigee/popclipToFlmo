@@ -18,10 +18,14 @@ Double-click `popcliptoflomo.popclipext`.
 
 Set flomo API URL in PopClip extension settings.
 
-Get URL from: https://flomoapp.com/mine?source=incoming_webhook
+Get URL from: [flomo incoming webhook](https://flomoapp.com/mine?source=incoming_webhook)
 
 ## Requirements
 
 - macOS
 - PopClip
 - flomo PRO account
+
+## Links
+
+- [flomo Homepage](https://flomoapp.com/)
