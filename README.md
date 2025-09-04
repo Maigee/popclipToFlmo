@@ -1,6 +1,6 @@
 # popcliptoflomo
 
-PopClip extension for saving selected text to flomo.
+PopClip extension for saving selected text to [flomo](https://flomoapp.com/).
 
 ## Function
 
