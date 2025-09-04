@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>popcliptoflomo</string>
+	<key>Identifier</key>
+	<string>com.popclip.extension.popcliptoflomo</string>
+	<key>Description</key>
+	<string>Save selected text to flomo via API</string>
+	<key>Icon</key>
+	<string>logo.png</string>
+	<key>Requirements</key>
+	<array>
+		<string>text</string>
+	</array>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Identifier</key>
+			<string>api_url</string>
+			<key>Label</key>
+			<string>Flomo API URL</string>
+			<key>Type</key>
+			<string>string</string>
+			<key>Description</key>
+			<string>Your flomo incoming webhook URL (get it from https://flomoapp.com/mine?source=incoming_webhook)</string>
+		</dict>
+	</array>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Save to Flomo</string>
+			<key>Identifier</key>
+			<string>save-to-flomo-shell</string>
+			<key>Icon</key>
+			<string>logo.png</string>
+			<key>Shell Script File</key>
+			<string>flomo-save.sh</string>
+		</dict>
+	</array>
+</dict>
+</plist>
