@@ -29,3 +29,7 @@ Get URL from: [flomo incoming webhook](https://flomoapp.com/mine?source=incoming
 ## Links
 
 - [flomo Homepage](https://flomoapp.com/)
+
+## Modern TypeScript Version
+
+A modern TypeScript version of this extension is also available in the `FlomoModern.popclipext` directory, using the newer PopClip extension format with JavaScript/TypeScript support.
